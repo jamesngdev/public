@@ -1,0 +1,1 @@
+Sau đó thông qua quá trình embedding, những token sẽ được chuyển hoá thành các vector những dãy số biểu trưng cho token. Bạn cứ tưởng tượng chúng là những mã định danh để chương trình học máy có thể nhận ra những token mình đang xử lý. 
