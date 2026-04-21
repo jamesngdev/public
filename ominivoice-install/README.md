@@ -1,0 +1,1 @@
+curl -fsSL https://raw.githubusercontent.com/jamesngdev/public/refs/heads/main/ominivoice-install/install.sh | bash
